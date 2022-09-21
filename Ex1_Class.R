@@ -7,6 +7,7 @@
 # 5.	使用summary() 計算1. 數據中的每月報酬率平均數，2. 數據中的每日報酬率平均數3. 數據中的ROA的平均數，並與答案驗證。
 # 6.	將所有資料存在同一個workspace之中，存成TEJbasicdata.rdata，將結果存在自己電腦之中。
 
+# test branch
 
 library(tidyverse)
 library(naniar)
